@@ -1,2 +1,2 @@
 # hello-world
-first programe in the git hub
+thub readme is updated form the github local
